@@ -1,0 +1,3 @@
+Hi, hello world !
+sample file - contents will be copied to another file
+This is Muneesh Khurana. 
